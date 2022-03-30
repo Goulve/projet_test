@@ -4,7 +4,8 @@ class classe():
         self.name="goulven"
         self.couleur="red"
         self.test="test"
-        self.pays="France"
+        self.allemagne="False"
+        self.age=29
 
 def function(a,b):
     return a+b
