@@ -3,7 +3,8 @@ class classe():
     def __init__(self):
         self.name="goulven"
         self.couleur="red"
-
+        self.test="test"
+        self.pays="France"
 
 def function(a,b):
     return a+b
@@ -22,4 +23,4 @@ for i in li:
 a=1
 while a==1:
     a=0
-    
+
